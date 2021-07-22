@@ -2,5 +2,28 @@
   {
     "name":"學測五選四",
     "link":"https://sean.taipei/gsat"
+  },{
+    "name":"陳立補課",
+    "link":"https://vod.chenliedu.com.tw"
+  },
+  {
+    "name":"訂午餐 -- 台南一中",
+    "link":"https://lunch.tnfsa.org"
+  },
+  {
+    "name":"線上計時器",
+    "link":"https://timer.hsuan.app"
+  },
+  {
+    "name":"加密訊息",
+    "link":"https://em.hsuan.app"
+  },
+  {
+    "name":"空汙資訊",
+    "link":"https://air.hsuan.app"
+  },
+  {
+    "name":"翰林雲端速測",
+    "link":"https://qt.hle.com.tw"
   }
 ]
