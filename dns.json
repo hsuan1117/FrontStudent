@@ -4,5 +4,11 @@
       "type": "URL",
       "content": "https://www.sean.taipei/gsat/"
     }
+  },
+  "dns": {
+    "cname": {
+      "type": "CNAME",
+      "content": "54.gsat"
+    }
   }
 }
