@@ -1,22 +1,10 @@
 [
   {
-    "name":"台南一中訂午餐",
-    "link":"https://lunch.tnfsa.org"
-  },
-  {
-    "name":"線上計時器",
-    "link":"https://timer.hsuan.app"
-  },
-  {
-    "name":"加密訊息",
-    "link":"https://em.hsuan.app"
-  },
-  {
-    "name":"空汙資訊",
-    "link":"https://air.hsuan.app"
-  },
-  {
     "name":"翰林雲端速測",
     "link":"https://qt.hle.com.tw"
+  },
+  {
+    "name":"看新聞",
+    "link":"https://news.google.com/topstories?hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
   }
 ]
